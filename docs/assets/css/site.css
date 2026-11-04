@@ -181,4 +181,6 @@ mark.todo { background: var(--review-bg); color: var(--review-ink); border: 1px 
 .plate h3 a:hover { text-decoration: underline; }
 .spacer { height: 64px; }
 li.review { list-style-position: inside; margin-left: -1.25em; }
+.doc .langs { padding-left: 0; }
+.doc .langs li + li { margin-top: 0; }
 .app-election-magick { --plate: #0B0C10; --plate-ink: #F2F2F4; --plate-muted: #B4B8C2; --plate-accent: #D6BC7A; --plate-line: #2A2C33; }
