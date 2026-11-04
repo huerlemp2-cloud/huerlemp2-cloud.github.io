@@ -4,7 +4,15 @@ Estado: **pré-visualização, não publicar.**
 - `site.json` tem `"indexing": false`, por isso todas as páginas levam `noindex` e o `robots.txt` bloqueia motores de busca.
 - `python3 tools/validate.py --release` falha até estarem preenchidos os dados abaixo e resolvida a revisão jurídica.
 
-## 1. Dados do proprietário em falta
+## 1. Dados do proprietário
+
+**Preenchidos em `site.json` (4 Nov 2026)**, iguais aos do ElectionMagica `74beb13`:
+- Huerlem Peters;
+- huerlem.peters1988@outlook.com;
+- a morada de Stratford;
+- «the laws of England and Wales», sujeito a revisão jurídica.
+
+O `EM_WEBSITE_URL` do `Owner.xcconfig` ainda é `example.com` (§3).
 
 Estes dados ficam **públicos** no site e dentro do app. Os documentos legais do app usam os mesmos valores.
 
@@ -22,6 +30,8 @@ Notas:
 - A redação da lei aplicável (por exemplo, «the laws of England and Wales») deve ser confirmada na revisão jurídica.
 
 ## 2. Revisão jurídica pendente (17 notas)
+
+As propostas de texto para cada nota estão no repositório privado ElectionMagica, em `Docs/LEGAL_REVIEW_PROPOSALS.md`, e não neste repositório, que será público. Inclui-se o defeito da lei aplicável, que aparece em inglês nos textos PT-BR/ES.
 
 As notas «LEGAL REVIEW REQUIRED» estão nos documentos do **app** (`ElectionMagica/LEGAL/*.md`). Aparecem **dentro do app** e no site, destacadas a amarelo na pré-visualização.
 

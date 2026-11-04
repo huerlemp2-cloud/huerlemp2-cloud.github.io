@@ -5,14 +5,23 @@
   "indexing": false,
   "default_locale": "en-GB",
   "locales": {
-    "en-GB": {"enabled": true, "path": ""},
-    "pt-BR": {"enabled": false, "path": "pt-br"},
-    "es": {"enabled": false, "path": "es"}
+    "en-GB": {
+      "enabled": true,
+      "path": ""
+    },
+    "pt-BR": {
+      "enabled": false,
+      "path": "pt-br"
+    },
+    "es": {
+      "enabled": false,
+      "path": "es"
+    }
   },
   "owner": {
-    "legal_name": null,
-    "postal_address": null,
-    "contact_email": null,
-    "governing_law": null
+    "legal_name": "Huerlem Peters",
+    "postal_address": "1 Bussell Building, 6 Westfield Avenue, Stratford, London E20 1ND, England, United Kingdom",
+    "contact_email": "huerlem.peters1988@outlook.com",
+    "governing_law": "the laws of England and Wales"
   }
 }

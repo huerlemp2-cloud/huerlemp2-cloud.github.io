@@ -1,6 +1,6 @@
 {
   "source_repository": "huerlemp2-cloud/ElectionMagica (private)",
-  "source_commit": "af746d1f30bb1a2a7f6ed2eed2368f91b75c0204",
+  "source_commit": "74beb137bd1994165882e68c6648d63e74140cca",
   "rule": "Copied verbatim. Edit the documents in ElectionMagica LEGAL/ first (the app bundles them), then re-sync with tools/sync_election_magick_legal.py.",
   "files": {
     "en/privacy.md": {
