@@ -1,11 +1,11 @@
-# Validation report (preview mode): PASS
+# Validation report (release mode): PASS
 
 - Pages: 28 · internal links and assets checked: 556 · broken: 0
 - Required pages present: 18/18
 - Forbidden files or content: 0
 - Legal copies identical to the app's documents (SOURCE.json): yes
 - Owner details missing in site.json: none
-- Indexing: off (preview: noindex + robots Disallow)
+- Indexing: on
 
 ## Placeholders and legal-review notes in the built pages
 
