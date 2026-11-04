@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Política de Retenção de Dados | Election Magick</title>
-<meta name="description" content="O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolvedor) não mantemos cópia de nada listado aqui. Esta política explica onde">
+<meta name="description" content="O Election Magick guarda os dados do aplicativo descritos abaixo no seu aparelho; nós (o desenvolvedor) não mantemos cópias desses dados locais. Mensagens">
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="color-scheme" content="light dark">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://huerlemp2-cloud.github.io/election-magick/en/data-retention/">
 <meta property="og:site_name" content="Huerlem Apps">
 <meta property="og:title" content="Política de Retenção de Dados | Election Magick">
-<meta property="og:description" content="O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolvedor) não mantemos cópia de nada listado aqui. Esta política explica onde">
+<meta property="og:description" content="O Election Magick guarda os dados do aplicativo descritos abaixo no seu aparelho; nós (o desenvolvedor) não mantemos cópias desses dados locais. Mensagens">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://huerlemp2-cloud.github.io/election-magick/pt-br/data-retention/">
 <link rel="icon" href="../../../assets/img/favicon.svg" type="image/svg+xml">
@@ -25,7 +25,7 @@
 <body>
 <a class="skip" href="#content">Ir para o conteúdo</a><div class="preview" role="note"><div class="wrap">Pré-visualização. Não publicar antes de completar os dados do titular e a revisão jurídica.</div></div><header class="site-header" lang="en-GB"><div class="wrap"><a class="wordmark" href="../../../">Huerlem Apps</a><nav class="site-nav" aria-label="Main"><ul><li><a href="../../../#apps">Apps</a></li><li><a href="../../../support/">Support</a></li><li><a href="../../../legal/" aria-current="page">Legal</a></li></ul></nav></div></header>
 <main id="content">
-<nav class="crumbs wrap" aria-label="Navegação estrutural"><ol><li><a href="../../../">Huerlem Apps</a></li><li><a href="../../">Election Magick</a></li><li aria-current="page">Política de Retenção de Dados</li></ol></nav><div class="wrap doc-layout"><article class="doc"><ul class="langs" aria-label="Idioma"><li><a href="../../en/data-retention/" hreflang="en-GB" lang="en-GB">English</a></li><li><a href="../../pt-br/data-retention/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a></li><li><a href="../../es/data-retention/" hreflang="es" lang="es">Español</a></li></ul><h1>Política de Retenção de Dados</h1><p class="meta">Versão 1.0 · Vigência a partir de 2026-11-01</p><p>O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolvedor) não mantemos cópia de nada listado aqui. Esta política explica onde cada item fica, por quanto tempo e como apagá-lo.</p>
+<nav class="crumbs wrap" aria-label="Navegação estrutural"><ol><li><a href="../../../">Huerlem Apps</a></li><li><a href="../../">Election Magick</a></li><li aria-current="page">Política de Retenção de Dados</li></ol></nav><div class="wrap doc-layout"><article class="doc"><ul class="langs" aria-label="Idioma"><li><a href="../../en/data-retention/" hreflang="en-GB" lang="en-GB">English</a></li><li><a href="../../pt-br/data-retention/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a></li><li><a href="../../es/data-retention/" hreflang="es" lang="es">Español</a></li></ul><h1>Política de Retenção de Dados</h1><p class="meta">Versão 1.0 · Vigência a partir de 2026-11-01</p><p>O Election Magick guarda os dados do aplicativo descritos abaixo no seu aparelho; nós (o desenvolvedor) não mantemos cópias desses dados locais. Mensagens de suporte enviadas a nós são tratadas separadamente, conforme descrito abaixo. Esta política explica onde cada item fica, por quanto tempo e como apagá-lo.</p>
 <h2>No seu aparelho até você apagar</h2>
 <ul>
 <li>Eleições salvas (descrição do ritual, entidade, local com coordenadas e fuso horário, data, classificação no momento em que foi salva): até você apagá-las em Salvos, usar Ajustes → Apagar dados locais ou apagar o app.</li>
@@ -39,7 +39,7 @@
 </ul>
 <h2>Nas Chaves (Keychain) do aparelho</h2>
 <ul>
-<li class="review">Registro da franquia de consultas: resumos irreversíveis das consultas usadas, por período de assinatura, guardados somente neste aparelho. Não é removido por Apagar dados locais, para que a franquia não possa ser reiniciada, e o iOS pode mantê-lo depois que o app é apagado. Não contém texto de ritual, local nem datas legíveis. LEGAL REVIEW REQUIRED.</li>
+<li>Registro da franquia de consultas: resumos SHA-256 irreversíveis utilizados para impedir a redefinição da franquia, guardados no Keychain do aparelho para os períodos de assinatura registrados. Os resumos não exibem texto de ritual, local ou datas de forma legível, mas ainda podem ser considerados dados pessoais se relacionados ao aparelho ou assinante. Esses registros não são removidos por Apagar dados locais e podem permanecer após a desinstalação devido ao funcionamento do Keychain do iOS. Não recebemos esses registros. Esta é uma limitação funcional da versão atual; se precisar de ajuda sobre registros mantidos, escreva para <a href="mailto:huerlem.peters1988@outlook.com">huerlem.peters1988@outlook.com</a>.</li>
 </ul>
 <h2>Arquivos temporários</h2>
 <ul>
@@ -57,6 +57,8 @@
 <li>Apague o app do aparelho.</li>
 <li>Se quiser, cancele a assinatura na sua conta Apple.</li>
 </ol>
+<h2>Mensagens de suporte que recebemos</h2>
+<p>Diferentemente dos dados locais do app, mensagens enviadas a <a href="mailto:huerlem.peters1988@outlook.com">huerlem.peters1988@outlook.com</a> são recebidas por nosso provedor de e-mail. Mantemos os seus dados de contato, mensagens e anexos somente pelo tempo razoavelmente necessário para atender a solicitação, realizar acompanhamentos e cumprir obrigações legais. Você pode solicitar acesso ou exclusão, observadas as exceções legais. Essas informações <strong>não</strong> são apagadas pelo comando Apagar dados locais do aplicativo.</p>
 <h2>Contato</h2>
 <p><a href="mailto:huerlem.peters1988@outlook.com">huerlem.peters1988@outlook.com</a></p></article><aside class="doc-aside"><nav aria-label="Documentos"><h2>Documentos</h2><ul><li><a href="../privacy/">Política de Privacidade</a></li><li><a href="../terms/">Termos de Uso</a></li><li><a href="../subscription/">Termos de Assinatura</a></li><li><a href="../disclaimer/">Aviso sobre Astrologia e Rituais</a></li><li><a href="../data-retention/" aria-current="page">Política de Retenção de Dados</a></li><li><a href="../support/">Suporte</a></li></ul><ul><li><a href="../../">Sobre o Election Magick</a></li></ul></nav></aside></div>
 </main>

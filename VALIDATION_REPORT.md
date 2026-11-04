@@ -9,15 +9,7 @@
 
 ## Placeholders and legal-review notes in the built pages
 
-| Kind | Pages | Occurrences |
-|---|---|---|
-| legal review note | 11 | 17 |
-
-<details><summary>Pages</summary>
-
-**legal review note**: /election-magick/en/data-retention/index.html (1), /election-magick/en/privacy/index.html (1), /election-magick/en/terms/index.html (3), /election-magick/es/data-retention/index.html (1), /election-magick/es/privacy/index.html (1), /election-magick/es/subscription/index.html (1), /election-magick/es/terms/index.html (3), /election-magick/pt-br/data-retention/index.html (1), /election-magick/pt-br/privacy/index.html (1), /election-magick/pt-br/subscription/index.html (1), /election-magick/pt-br/terms/index.html (3)
-
-</details>
+None.
 
 ## External links (not fetched; open each once before publishing)
 
@@ -31,3 +23,10 @@
 - https://www.apple.com/es/legal/privacy/ (1 pages)
 - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ (3 pages)
 - https://www.apple.com/legal/privacy/ (1 pages)
+
+## Website vs app (tools/compare_with_app.py, ElectionMagica 3f406eb)
+
+- 1. sources identical to the app: 18/18
+- 2. owner values equal to Owner.xcconfig: 4/5
+- 3. built pages matching their source word for word: 18/18
+- NOTE: [[WEBSITE_URL]]: website 'https://huerlemp2-cloud.github.io/election-magick' / app 'https://example.com'

@@ -29,28 +29,14 @@ Notas:
 - Recomendo um e-mail dedicado ao suporte, que possa manter durante anos.
 - A redação da lei aplicável (por exemplo, «the laws of England and Wales») deve ser confirmada na revisão jurídica.
 
-## 2. Revisão jurídica pendente (17 notas)
+## 2. Revisão jurídica
 
-As propostas de texto para cada nota estão no repositório privado ElectionMagica, em `Docs/LEGAL_REVIEW_PROPOSALS.md`, e não neste repositório, que será público. Inclui-se o defeito da lei aplicável, que aparece em inglês nos textos PT-BR/ES.
+Concluída a 4 Nov 2026 no ElectionMagica:
+- já não há notas «LEGAL REVIEW REQUIRED»;
+- a idade mínima é 18+;
+- a lei aplicável está traduzida nos textos PT-BR e ES.
 
-As notas «LEGAL REVIEW REQUIRED» estão nos documentos do **app** (`ElectionMagica/LEGAL/*.md`). Aparecem **dentro do app** e no site, destacadas a amarelo na pré-visualização.
-
-| Documento | Nota | EN | PT-BR | ES |
-|---|---|---|---|---|
-| Privacy Policy §10 | Identidade do responsável, bases legais, representante | ✓ | ✓ | ✓ |
-| Terms §idade | Alinhar os 18+ com a classificação etária do App Store Connect | ✓ | ✓ | ✓ |
-| Terms, responsabilidade | Exceções da lei do consumidor por jurisdição | ✓ | ✓ | ✓ |
-| Terms, lei aplicável | Lei e foro | ✓ | ✓ | ✓ |
-| Data Retention, registo de consultas | Registo que sobrevive a «Apagar dados locais» | ✓ | ✓ | ✓ |
-| Subscription Terms, reembolsos | Direito de arrependimento (CDC / desistimiento) | — | ✓ | ✓ |
-
-Como resolver:
-1. A revisão jurídica decide o texto final de cada nota.
-2. O texto é alterado em `ElectionMagica/LEGAL/` (o app e o site usam os mesmos ficheiros).
-3. A nota «LEGAL REVIEW REQUIRED» é removida.
-4. Corre-se `tools/sync_election_magick_legal.py` neste repositório.
-
-O site nunca tem uma versão diferente da do app.
+O estado da sincronização e as pendências administrativas (ICO condicional, art. 27 RGPD, App Privacy) estão em `LEGAL_SYNC_2026-11-04.md`.
 
 ## 3. URLs finais
 

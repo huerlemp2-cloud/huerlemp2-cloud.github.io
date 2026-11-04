@@ -1,19 +1,19 @@
 {
   "source_repository": "huerlemp2-cloud/ElectionMagica (private)",
-  "source_commit": "74beb137bd1994165882e68c6648d63e74140cca",
+  "source_commit": "3f406ebede707ef66d358503a70863edc20114a4",
   "rule": "Copied verbatim. Edit the documents in ElectionMagica LEGAL/ first (the app bundles them), then re-sync with tools/sync_election_magick_legal.py.",
   "files": {
     "en/privacy.md": {
       "source": "LEGAL/Privacy-Policy-EN.md",
-      "sha256": "9f21a080748fa9e8af3efcde45bf9a2e66e33a801e89162d48ed7476a7387672"
+      "sha256": "a8847d24de009b4668c505af0aea5185e71ef4dbe3d32ea3feef75f4991881c5"
     },
     "en/terms.md": {
       "source": "LEGAL/Terms-of-Use-EN.md",
-      "sha256": "53d23d474cb4f8c8325dcc9430187e5b9ca0ba8eba48fc01d43ab4d76f80e66f"
+      "sha256": "8136be661c852460664e19d14df8ce3455ffc2876ebc47bdda44d181c304d34a"
     },
     "en/subscription.md": {
       "source": "LEGAL/Subscription-Terms-EN.md",
-      "sha256": "59379418b961156d0c2e37f547d9ecfe07b4439ee27aa1e6f5c6eb024279c01f"
+      "sha256": "dac3c9c5228e7b9efa7ceb57215c50f8ed840428831aa53019b37cba2afb0e1f"
     },
     "en/disclaimer.md": {
       "source": "LEGAL/Disclaimer-EN.md",
@@ -21,7 +21,7 @@
     },
     "en/data-retention.md": {
       "source": "LEGAL/Data-Retention-Policy-EN.md",
-      "sha256": "a24e5716dd1439aafb120b3c8f6c38ad8753b583a62291d0f151df07afd6bb0d"
+      "sha256": "e5713afe887485820115302f379fe386f202a806a65e8d4367bdd42e18518b6c"
     },
     "en/support.md": {
       "source": "Tools/legal/build_website.py SUPPORT['en']",
@@ -29,15 +29,15 @@
     },
     "pt-br/privacy.md": {
       "source": "LEGAL/Privacy-Policy-PT-BR.md",
-      "sha256": "a09c8d3c6c8e1f7787c3886e5d8a31133c7b26c26434a87589c978e7fb5f5f94"
+      "sha256": "53f5af3e0b3195eb6fe8edda9e84f69e2a55c4f9fa2dae1f56bcc8fce1493c1b"
     },
     "pt-br/terms.md": {
       "source": "LEGAL/Terms-of-Use-PT-BR.md",
-      "sha256": "15967f90f0902cc1af28e20b3ea4bd47da526ab4e7a5e7731ca4ed58b67beb8a"
+      "sha256": "bf2519d4c901c57e4507e238e37e3ca38997eb0cd7de994635f0d4fd46b78c51"
     },
     "pt-br/subscription.md": {
       "source": "LEGAL/Subscription-Terms-PT-BR.md",
-      "sha256": "778a665035bba4d6cf2274ea80d394a92ecbbf80c388d19de69308bb94afdc64"
+      "sha256": "ae76375c3f656d18561ffaaf11fd40caff2b3efc9ab6bf48c8963003cd08bf67"
     },
     "pt-br/disclaimer.md": {
       "source": "LEGAL/Disclaimer-PT-BR.md",
@@ -45,7 +45,7 @@
     },
     "pt-br/data-retention.md": {
       "source": "LEGAL/Data-Retention-Policy-PT-BR.md",
-      "sha256": "689f3b7cfc55dbbe2c29fd70b692e7cf969c33d513092b0f6f1067927819c41a"
+      "sha256": "e8f56834adc63d594cc20d5f200ebb1787ff032e3969f72e2f7f01b8fd9863d4"
     },
     "pt-br/support.md": {
       "source": "Tools/legal/build_website.py SUPPORT['pt-br']",
@@ -53,15 +53,15 @@
     },
     "es/privacy.md": {
       "source": "LEGAL/Privacy-Policy-ES.md",
-      "sha256": "dc52d375c20187d8fd42aad558904f35062506fae17fe767177c1840044cb0c9"
+      "sha256": "a9fdbf4011de3d6c4ec936236faedb2465afa2fcfd1534c853c0b9cf3c6063bc"
     },
     "es/terms.md": {
       "source": "LEGAL/Terms-of-Use-ES.md",
-      "sha256": "91aae0c0b66a6582378ef40aba64a912067fa8b87ab9c985690b7e3fc80a4511"
+      "sha256": "7884613c954f264892c16a0edfaa5dc6230fd09b7ed4dddb9c766e26a366e587"
     },
     "es/subscription.md": {
       "source": "LEGAL/Subscription-Terms-ES.md",
-      "sha256": "938317457189be5fee1c169ecbebcec63256b381e2d8717672956a3cfbdae976"
+      "sha256": "7d21e3418ea3a000340209ef6bc86c9a24d87156c5ae4039b90f968785993703"
     },
     "es/disclaimer.md": {
       "source": "LEGAL/Disclaimer-ES.md",
@@ -69,7 +69,7 @@
     },
     "es/data-retention.md": {
       "source": "LEGAL/Data-Retention-Policy-ES.md",
-      "sha256": "d44cd08f95ed37487895cda2d17ba8af8d181c429ada9f4aba2c9bdb8b63cc92"
+      "sha256": "33a544e81a62809d15610bba549259b226707419cfc101b108d9ab8d4d743197"
     },
     "es/support.md": {
       "source": "Tools/legal/build_website.py SUPPORT['es']",

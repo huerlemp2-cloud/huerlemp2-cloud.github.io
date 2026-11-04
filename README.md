@@ -32,6 +32,7 @@ assets/                            stylesheet, icons, screenshots
 tools/build.py                     builds docs/ (Python 3.9+, standard library only)
 tools/validate.py                  link check, required pages, forbidden content, placeholders (--release)
 tools/sync_election_magick_legal.py  copies Election Magick's documents verbatim from the app repository
+tools/compare_with_app.py           checks sources, owner values and built pages against the app (read-only)
 docs/                              generated site (committed; GitHub Pages serves this folder)
 ```
 
