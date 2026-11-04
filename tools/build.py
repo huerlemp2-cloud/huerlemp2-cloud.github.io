@@ -143,7 +143,9 @@ def md_to_html(md, locale, shift=0):
             kind = "ol" if m.group(1)[0].isdigit() else "ul"
             if lst != kind:
                 close(); out.append(f"<{kind}>"); lst = kind
-            out.append(f"<li>{inline(m.group(2), locale)}</li>")
+            item = m.group(2)
+            cls = ' class="review"' if "LEGAL REVIEW REQUIRED" in item else ""
+            out.append(f"<li{cls}>{inline(item, locale)}</li>")
             continue
         if lst:
             close()

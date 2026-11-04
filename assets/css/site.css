@@ -180,3 +180,4 @@ mark.todo { background: var(--review-bg); color: var(--review-ink); border: 1px 
 .plate h3 a { color: inherit; text-decoration: none; }
 .plate h3 a:hover { text-decoration: underline; }
 .spacer { height: 64px; }
+li.review { list-style-position: inside; margin-left: -1.25em; }

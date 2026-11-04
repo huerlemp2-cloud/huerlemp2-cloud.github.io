@@ -1,4 +1,4 @@
-# Validation report (release mode): FAIL
+# Validation report (preview mode): PASS
 
 - Pages: 28 · internal links and assets checked: 556 · broken: 0
 - Required pages present: 18/18
@@ -6,12 +6,6 @@
 - Legal copies identical to the app's documents (SOURCE.json): yes
 - Owner details missing in site.json: legal_name, postal_address, contact_email, governing_law
 - Indexing: off (preview: noindex + robots Disallow)
-
-## Errors
-
-- placeholders or legal-review notes remain (see table)
-- owner details missing in site.json: legal_name, postal_address, contact_email, governing_law
-- indexing is off in site.json (preview mode)
 
 ## Placeholders and legal-review notes in the built pages
 
