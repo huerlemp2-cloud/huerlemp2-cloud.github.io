@@ -44,7 +44,7 @@ Puedes cambiar entre Standard y Premium o entre facturación mensual y anual en 
 
 ## 7. Reembolsos
 
-Los reembolsos los gestiona Apple. Puedes solicitarlos en https://reportaproblem.apple.com o desde la app (Ajustes → Solicitar un reembolso a Apple). No podemos emitir reembolsos directamente. Si Apple concede un reembolso, termina el acceso a la suscripción reembolsada. El derecho de desistimiento de la normativa de consumo de la UE se ejerce mediante el proceso de Apple. LEGAL REVIEW REQUIRED.
+Los reembolsos los gestiona Apple. Puedes solicitarlos en https://reportaproblem.apple.com o desde la app (Ajustes → Solicitar un reembolso a Apple). No podemos emitir reembolsos directamente. Si Apple concede un reembolso, termina el acceso a la suscripción reembolsada. Las solicitudes de reembolso y el ejercicio del derecho de desistimiento pueden iniciarse mediante el proceso de Apple; este procedimiento no limita los derechos imperativos que te reconoce la legislación de consumo aplicable.
 
 ## 8. Consultas
 

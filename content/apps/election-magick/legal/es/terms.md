@@ -16,7 +16,7 @@ La astrología y la práctica ritual son sistemas culturales, espirituales y tra
 
 ## 3. Edad mínima
 
-Debes tener al menos 18 años, o la mayoría de edad de tu país si es superior, para usar la app. LEGAL REVIEW REQUIRED (alinear con la clasificación por edades elegida en App Store Connect).
+Debes tener al menos 18 años, o la mayoría de edad de tu país si es superior, para usar la app.
 
 ## 4. Suscripciones
 
@@ -50,7 +50,7 @@ En la medida en que lo permita la ley, la app se ofrece "tal cual" y "según dis
 
 ## 11. Limitación de responsabilidad
 
-En la medida en que lo permita la ley, no respondemos de pérdidas indirectas o consecuentes, ni de decisiones o acciones que tomes basándote en resultados, explicaciones o informes de la app. Nuestra responsabilidad total frente a ti se limita al importe pagado por la suscripción en los doce meses anteriores a la reclamación. No excluimos la responsabilidad por muerte o lesiones causadas por negligencia, por fraude ni por nada que la ley no permita excluir. LEGAL REVIEW REQUIRED (excepciones del derecho de consumo por jurisdicción).
+La app ofrece interpretaciones de astrología electiva y no garantiza resultados espirituales, personales ni prácticos. En la medida permitida por la ley aplicable, no respondemos de decisiones o actuaciones basadas exclusivamente en esas interpretaciones. Nada en estos Términos excluye o restringe los derechos y remedios legales obligatorios por contenido digital defectuoso, incluida su calidad, idoneidad, conformidad con la descripción o los daños que cause. No excluimos la responsabilidad por fraude, fallecimiento o lesiones personales causadas por negligencia ni ninguna responsabilidad que la ley prohíba excluir o limitar. Cualquier otra limitación solo se aplicará cuando sea legal y justa bajo la normativa que te proteja.
 
 ## 12. Fin del uso
 
@@ -58,7 +58,7 @@ Puedes dejar de usar la app en cualquier momento y cancelar la suscripción en l
 
 ## 13. Ley aplicable y disputas
 
-Estos Términos se rigen por [[GOVERNING_LAW]]. Si eres consumidor, conservas la protección de las leyes imperativas de tu país de residencia y puedes acudir a sus tribunales. LEGAL REVIEW REQUIRED.
+Estos Términos se rigen por las leyes de Inglaterra y Gales, sin perjuicio de las normas imperativas de protección del consumidor del país donde resides habitualmente. Esta elección no elimina tus derechos obligatorios locales ni el acceso a los tribunales competentes conforme a la ley aplicable. Puedes escribir a [[SUPPORT_EMAIL]] para intentar una solución amistosa, pero no es requisito para ejercer tus derechos.
 
 ## 14. Contacto
 

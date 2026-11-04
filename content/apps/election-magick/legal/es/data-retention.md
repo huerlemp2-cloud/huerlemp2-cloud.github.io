@@ -2,7 +2,7 @@
 
 Versión 1.0 · Vigente desde 2026-11-01
 
-Election Magick guarda la información solo en tu dispositivo. Nosotros (el desarrollador) no conservamos copia de nada de lo que se enumera aquí. Esta política explica dónde está cada elemento, cuánto tiempo se conserva y cómo borrarlo.
+Election Magick guarda los datos de la app descritos a continuación en tu dispositivo; nosotros (el desarrollador) no conservamos copias de esos datos locales. Los mensajes de soporte que nos envías se gestionan por separado, como se explica más abajo. Esta política explica dónde está cada elemento, cuánto tiempo se conserva y cómo borrarlo.
 
 ## En tu dispositivo hasta que lo borres
 
@@ -17,7 +17,7 @@ Election Magick guarda la información solo en tu dispositivo. Nosotros (el desa
 
 ## En el Llavero (Keychain) del dispositivo
 
-- Registro de consultas incluidas: resúmenes irreversibles de las consultas usadas, por período de suscripción, guardados solo en este dispositivo. Borrar datos locales no lo elimina, para que la asignación no pueda reiniciarse, e iOS puede conservarlo tras eliminar la app. No contiene texto de ritual, lugar ni fechas legibles. LEGAL REVIEW REQUIRED.
+- Registro de consultas incluidas: resúmenes SHA-256 irreversibles que impiden reiniciar la asignación de consultas, guardados en el Llavero (Keychain) del dispositivo para los períodos de suscripción registrados. No muestran texto de ritual, lugar ni fechas de forma legible, pero pueden considerarse datos personales si están vinculados al dispositivo o al suscriptor. Borrar datos locales no los elimina y pueden persistir tras desinstalar la app por el funcionamiento del Llavero de iOS. No recibimos estos registros. Es una limitación funcional de la versión actual; si necesitas ayuda con los registros conservados, contacta con [[SUPPORT_EMAIL]].
 
 ## Archivos temporales
 
@@ -34,6 +34,10 @@ Election Magick guarda la información solo en tu dispositivo. Nosotros (el desa
 1. Ajustes → Borrar datos locales (elimina todo lo de la primera sección).
 2. Elimina la app del dispositivo.
 3. Si quieres, cancela la suscripción en tu cuenta de Apple.
+
+## Mensajes de soporte que recibimos
+
+A diferencia de los datos locales de la app, los mensajes enviados a [[SUPPORT_EMAIL]] se reciben mediante nuestro proveedor de correo. Conservamos los datos de contacto, mensajes y adjuntos solo durante el tiempo razonablemente necesario para atender la solicitud, realizar seguimiento y cumplir las obligaciones legales. Puedes solicitar acceso o eliminación, con sujeción a las excepciones legales. Esta información **no** se elimina con la función Borrar datos locales de la app.
 
 ## Contacto
 

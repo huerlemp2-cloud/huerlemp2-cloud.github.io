@@ -100,10 +100,15 @@ La app no contiene software de analítica, de informes de fallos ni de publicida
 <!-- fact:P-ADS-1 -->
 No mostramos publicidad, no te rastreamos en otras apps o sitios web, no vendemos ni compartimos datos personales y no hay ninguna cuenta que crear.
 
+
+### Correos de soporte y diagnósticos del desarrollador
+
+Si escribes a [[SUPPORT_EMAIL]], recibimos y tratamos tu dirección de correo, tu nombre (si lo facilitas), el mensaje y los adjuntos que decidas enviar. Utilizamos estos datos para responder a tu solicitud, investigar incidencias y gestionar el seguimiento necesario. En el Reino Unido, nuestra base jurídica prevista es el interés legítimo en ofrecer soporte; cuando la comunicación sea necesaria para cumplir un contrato, podrá aplicarse la ejecución contractual. Nuestro proveedor de correo almacena y procesa estas comunicaciones por nuestra cuenta. Las conservamos solo durante el tiempo razonablemente necesario para resolver la solicitud y cumplir las obligaciones legales aplicables. Puedes solicitar acceso o supresión en [[SUPPORT_EMAIL]], sin perjuicio de las excepciones legales. También podemos recibir datos de diagnóstico de Apple únicamente si autorizas su comunicación en los ajustes de Apple.
+
 ## 8. Conservación y eliminación de tu información
 
 <!-- fact:P-RET-1 -->
-Tu información permanece en tu dispositivo hasta que la borres. No conservamos ninguna copia. Las copias temporales de exportación se borran al cabo de una hora.
+Los datos generados y guardados en la app permanecen en tu dispositivo hasta que los borres; no conservamos copias de esos datos locales. Los correos de soporte y los diagnósticos que Apple pueda compartir con nosotros se tratan por separado, como se explica anteriormente. Las copias temporales de exportación se borran al cabo de una hora.
 
 <!-- fact:P-DEL-1 -->
 Ajustes → Borrar datos locales elimina las elecciones guardadas, los lugares, los favoritos, los perfiles de ritual, el historial, la ubicación elegida, el registro de tu aceptación legal, el estado de la introducción y tu consentimiento a Private Cloud Compute. Los resúmenes de consultas descritos en la sección 4 permanecen. Eliminar la app borra sus datos de tu dispositivo, salvo los elementos que iOS conserva en el Llavero.
@@ -118,9 +123,9 @@ La app no está dirigida a menores ni está diseñada para que la usen menores.
 ## 10. Tus derechos
 
 <!-- fact:P-RIGHTS-1 -->
-Según dónde vivas (por ejemplo, conforme al RGPD de la UE, al UK GDPR o a la LGPD de Brasil), puedes tener derechos de acceso, rectificación, supresión y portabilidad de tus datos personales y de oposición a su uso. Como no conservamos tus datos personales, ejerces estos derechos directamente en la app (ver, exportar o borrar tus datos como se describe arriba). Para cualquier pregunta o reclamación, escribe a [[SUPPORT_EMAIL]]. También puedes reclamar ante una autoridad de protección de datos, como la Agencia Española de Protección de Datos, la autoridad de tu país de la UE/EEE, el Information Commissioner's Office (Reino Unido) o la Autoridad Nacional de Protección de Datos (Brasil).
+Según dónde vivas (por ejemplo, conforme al RGPD de la UE, al UK GDPR o a la LGPD de Brasil), puedes tener derechos de acceso, rectificación, supresión y portabilidad de tus datos personales y de oposición a su uso. Respecto de los datos almacenados exclusivamente en tu dispositivo, puedes ejercer estos derechos directamente en la app (ver, exportar o borrar tus datos como se describe arriba). Para cualquier pregunta o reclamación, escribe a [[SUPPORT_EMAIL]]. También puedes reclamar ante una autoridad de protección de datos, como la Agencia Española de Protección de Datos, la autoridad de tu país de la UE/EEE, el Information Commissioner's Office (Reino Unido) o la Autoridad Nacional de Protección de Datos (Brasil).
 
-LEGAL REVIEW REQUIRED: confirmar la identidad del responsable, las bases jurídicas y posibles requisitos de representante en la jurisdicción del titular de la app ([[GOVERNING_LAW]]).
+[[OWNER_LEGAL_NAME]], en [[OWNER_POSTAL_ADDRESS]], es el responsable del tratamiento de los mensajes de soporte y los diagnósticos que Apple ponga a disposición del desarrollador. Escríbenos a [[SUPPORT_EMAIL]] para ejercer los derechos de protección de datos aplicables. Tratamos los mensajes de soporte para contestar consultas y resolver problemas de la app, con la base jurídica que corresponda (normalmente interés legítimo en prestar soporte o ejecución de un contrato cuando sea necesario). La comunicación de diagnósticos por Apple depende de tus ajustes. Nuestro proveedor de correo trata las comunicaciones por nuestra cuenta. Podrían aplicarse obligaciones adicionales de contacto o representación en determinados territorios; puedes consultarnos en [[SUPPORT_EMAIL]].
 
 ## 11. Cambios
 
