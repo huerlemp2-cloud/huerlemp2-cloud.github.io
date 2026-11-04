@@ -44,7 +44,7 @@ Você pode trocar entre Standard e Premium ou entre cobrança mensal e anual nos
 
 ## 7. Reembolsos
 
-Os reembolsos são tratados pela Apple. Você pode solicitar em https://reportaproblem.apple.com ou pelo app (Ajustes → Solicitar reembolso à Apple). Não podemos emitir reembolsos diretamente. Se a Apple conceder o reembolso, o acesso à assinatura reembolsada termina. O direito de arrependimento previsto no Código de Defesa do Consumidor é exercido pelo processo de reembolso da Apple. LEGAL REVIEW REQUIRED.
+Os reembolsos são tratados pela Apple. Você pode solicitar em https://reportaproblem.apple.com ou pelo app (Ajustes → Solicitar reembolso à Apple). Não podemos emitir reembolsos diretamente. Se a Apple conceder o reembolso, o acesso à assinatura reembolsada termina. Pedidos de reembolso e de exercício do direito de arrependimento podem ser iniciados pelo processo da Apple; esse procedimento não elimina os direitos obrigatórios que a lei do consumidor lhe assegura, incluindo o Código de Defesa do Consumidor.
 
 ## 8. Consultas
 

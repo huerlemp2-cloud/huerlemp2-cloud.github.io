@@ -2,7 +2,7 @@
 
 Versão 1.0 · Vigência a partir de 2026-11-01
 
-O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolvedor) não mantemos cópia de nada listado aqui. Esta política explica onde cada item fica, por quanto tempo e como apagá-lo.
+O Election Magick guarda os dados do aplicativo descritos abaixo no seu aparelho; nós (o desenvolvedor) não mantemos cópias desses dados locais. Mensagens de suporte enviadas a nós são tratadas separadamente, conforme descrito abaixo. Esta política explica onde cada item fica, por quanto tempo e como apagá-lo.
 
 ## No seu aparelho até você apagar
 
@@ -17,7 +17,7 @@ O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolv
 
 ## Nas Chaves (Keychain) do aparelho
 
-- Registro da franquia de consultas: resumos irreversíveis das consultas usadas, por período de assinatura, guardados somente neste aparelho. Não é removido por Apagar dados locais, para que a franquia não possa ser reiniciada, e o iOS pode mantê-lo depois que o app é apagado. Não contém texto de ritual, local nem datas legíveis. LEGAL REVIEW REQUIRED.
+- Registro da franquia de consultas: resumos SHA-256 irreversíveis utilizados para impedir a redefinição da franquia, guardados no Keychain do aparelho para os períodos de assinatura registrados. Os resumos não exibem texto de ritual, local ou datas de forma legível, mas ainda podem ser considerados dados pessoais se relacionados ao aparelho ou assinante. Esses registros não são removidos por Apagar dados locais e podem permanecer após a desinstalação devido ao funcionamento do Keychain do iOS. Não recebemos esses registros. Esta é uma limitação funcional da versão atual; se precisar de ajuda sobre registros mantidos, escreva para [[SUPPORT_EMAIL]].
 
 ## Arquivos temporários
 
@@ -34,6 +34,10 @@ O Election Magick guarda informações apenas no seu aparelho. Nós (o desenvolv
 1. Ajustes → Apagar dados locais (remove tudo da primeira seção).
 2. Apague o app do aparelho.
 3. Se quiser, cancele a assinatura na sua conta Apple.
+
+## Mensagens de suporte que recebemos
+
+Diferentemente dos dados locais do app, mensagens enviadas a [[SUPPORT_EMAIL]] são recebidas por nosso provedor de e-mail. Mantemos os seus dados de contato, mensagens e anexos somente pelo tempo razoavelmente necessário para atender a solicitação, realizar acompanhamentos e cumprir obrigações legais. Você pode solicitar acesso ou exclusão, observadas as exceções legais. Essas informações **não** são apagadas pelo comando Apagar dados locais do aplicativo.
 
 ## Contato
 

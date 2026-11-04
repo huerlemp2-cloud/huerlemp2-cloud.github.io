@@ -16,7 +16,7 @@ Astrologia e prática ritual são sistemas culturais, espirituais e tradicionais
 
 ## 3. Idade mínima
 
-Você deve ter pelo menos 18 anos, ou a maioridade do lugar onde vive se for maior, para usar o app. LEGAL REVIEW REQUIRED (alinhar com a classificação etária escolhida no App Store Connect).
+Você deve ter pelo menos 18 anos, ou a maioridade do lugar onde vive se for maior, para usar o app.
 
 ## 4. Assinaturas
 
@@ -50,7 +50,7 @@ Na medida permitida por lei, o app é fornecido "no estado em que se encontra" e
 
 ## 11. Limitação de responsabilidade
 
-Na medida permitida por lei, não respondemos por perdas indiretas ou consequentes, nem por decisões ou ações que você tome com base em resultados, explicações ou relatórios do app. Nossa responsabilidade total perante você fica limitada ao valor pago pela assinatura nos doze meses anteriores à reclamação. Não excluímos responsabilidade por morte ou lesão corporal causadas por negligência, por fraude, nem por nada que a lei não permita excluir. LEGAL REVIEW REQUIRED (exceções da legislação de consumo por jurisdição).
+O app apresenta interpretações de astrologia eletiva e não garante resultados espirituais, pessoais ou práticos. Na medida permitida pela lei aplicável, não nos responsabilizamos por decisões ou ações tomadas exclusivamente com base nessas interpretações. Nada nestes Termos exclui ou limita direitos e soluções legais obrigatórios relativos a conteúdo digital defeituoso, inclusive qualidade, adequação à finalidade, correspondência à descrição ou danos por ele causados. Não excluímos responsabilidade por fraude, morte ou lesão pessoal decorrente de negligência, nem qualquer responsabilidade que a lei proíba excluir ou limitar. Outras limitações só se aplicam quando legais e justas nos termos da legislação que protege você.
 
 ## 12. Encerramento do uso
 
@@ -58,7 +58,7 @@ Você pode parar de usar o app a qualquer momento e cancelar a assinatura nos aj
 
 ## 13. Lei aplicável e disputas
 
-Estes Termos são regidos por [[GOVERNING_LAW]]. Se você for consumidor, mantém a proteção das leis obrigatórias do seu país de residência e pode recorrer à justiça local. LEGAL REVIEW REQUIRED.
+Estes Termos são regidos pelas leis da Inglaterra e do País de Gales, sem prejuízo das normas obrigatórias de proteção do consumidor do país onde você reside habitualmente. Essa escolha não retira seus direitos obrigatórios locais nem o acesso aos tribunais competentes pela lei aplicável. Você pode escrever para [[SUPPORT_EMAIL]] para tentar uma solução amigável, mas isso não é condição para exercer seus direitos.
 
 ## 14. Contato
 

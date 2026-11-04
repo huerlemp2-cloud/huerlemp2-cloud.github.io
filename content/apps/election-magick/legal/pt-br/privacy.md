@@ -100,10 +100,15 @@ O app não contém software de análise, de relatórios de falhas nem de publici
 <!-- fact:P-ADS-1 -->
 Não exibimos publicidade, não rastreamos você em outros apps ou sites, não vendemos nem compartilhamos dados pessoais, e não há conta a criar.
 
+
+### Mensagens de suporte e diagnósticos do desenvolvedor
+
+Se você nos escrever para [[SUPPORT_EMAIL]], receberemos e trataremos o endereço de e-mail, o nome (se informado), a mensagem e os anexos que decidir enviar. Usamos essas informações para responder à solicitação, investigar problemas e realizar acompanhamentos necessários. No Reino Unido, a base legal pretendida é o legítimo interesse em prestar suporte; quando a comunicação for necessária para cumprir um contrato, poderá ser aplicável a execução contratual. Nosso provedor de e-mail armazena e processa essas mensagens para nós. Elas são conservadas apenas pelo tempo razoavelmente necessário à solicitação e às obrigações legais aplicáveis; você pode solicitar acesso ou eliminação pelo endereço [[SUPPORT_EMAIL]], ressalvadas as exceções legais. Também podemos receber diagnósticos da Apple somente se você autorizar esse compartilhamento nos ajustes da Apple.
+
 ## 8. Guarda e exclusão das suas informações
 
 <!-- fact:P-RET-1 -->
-Suas informações ficam no seu aparelho até que você as apague. Não guardamos nenhuma cópia. As cópias temporárias de exportação são apagadas após uma hora.
+Os dados gerados e guardados no app permanecem no aparelho até serem apagados; não mantemos cópias desses dados locais. Mensagens de suporte e eventuais diagnósticos compartilhados pela Apple são tratados separadamente, conforme descrito acima. As cópias temporárias de exportação são apagadas após uma hora.
 
 <!-- fact:P-DEL-1 -->
 Ajustes → Apagar dados locais remove eleições salvas, locais, favoritos, perfis de ritual, histórico, o local escolhido, o registro do seu aceite jurídico, o estado da introdução e o seu consentimento ao Private Cloud Compute. Os resumos de consultas descritos na seção 4 permanecem. Apagar o app remove os dados dele do seu aparelho, exceto itens que o iOS mantém nas Chaves.
@@ -118,9 +123,9 @@ O app não é direcionado a crianças nem foi projetado para uso por crianças.
 ## 10. Seus direitos
 
 <!-- fact:P-RIGHTS-1 -->
-Dependendo de onde você mora (por exemplo, pela LGPD no Brasil, pelo UK GDPR ou pelo GDPR da UE), você pode ter direitos de acesso, correção, eliminação e portabilidade dos seus dados pessoais e de oposição ao seu uso. Como não mantemos seus dados pessoais, você exerce esses direitos diretamente no app (ver, exportar ou apagar seus dados como descrito acima). Para dúvidas ou reclamações, escreva para [[SUPPORT_EMAIL]]. Você também pode reclamar a uma autoridade de proteção de dados, como a Autoridade Nacional de Proteção de Dados (ANPD), o Information Commissioner's Office (Reino Unido) ou a autoridade do seu país da UE/EEE.
+Dependendo de onde você mora (por exemplo, pela LGPD no Brasil, pelo UK GDPR ou pelo GDPR da UE), você pode ter direitos de acesso, correção, eliminação e portabilidade dos seus dados pessoais e de oposição ao seu uso. Quanto aos dados armazenados somente no aparelho, você pode exercer esses direitos diretamente no app (ver, exportar ou apagar seus dados como descrito acima). Para dúvidas ou reclamações, escreva para [[SUPPORT_EMAIL]]. Você também pode reclamar a uma autoridade de proteção de dados, como a Autoridade Nacional de Proteção de Dados (ANPD), o Information Commissioner's Office (Reino Unido) ou a autoridade do seu país da UE/EEE.
 
-LEGAL REVIEW REQUIRED: confirmar a identidade do controlador, as bases legais e eventuais exigências de encarregado/representante na jurisdição do titular do app ([[GOVERNING_LAW]]).
+[[OWNER_LEGAL_NAME]], no endereço [[OWNER_POSTAL_ADDRESS]], é o controlador das mensagens de suporte e dos dados de diagnóstico que a Apple disponibilizar ao desenvolvedor. Entre em contato pelo [[SUPPORT_EMAIL]] para exercer os direitos de proteção de dados aplicáveis. Tratamos as comunicações de suporte para responder a pedidos e corrigir problemas do app, com a base legal adequada a cada situação (em geral, legítimo interesse em prestar suporte ou execução contratual quando necessária). O compartilhamento de diagnósticos pela Apple depende de seus ajustes. Nosso provedor de e-mail trata as mensagens em nosso nome. Poderão aplicar-se obrigações adicionais de contacto ou representação em determinados países; dúvidas sobre essas obrigações podem ser encaminhadas a [[SUPPORT_EMAIL]].
 
 ## 11. Alterações
 
