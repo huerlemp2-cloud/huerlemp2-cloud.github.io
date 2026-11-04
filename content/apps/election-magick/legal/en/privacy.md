@@ -100,10 +100,15 @@ The app contains no analytics, crash-reporting or advertising software. If you h
 <!-- fact:P-ADS-1 -->
 We show no advertising, do not track you across other apps or websites, do not sell or share personal data, and there is no account to create.
 
+
+### Support correspondence and developer diagnostics
+
+If you contact us at [[SUPPORT_EMAIL]], we receive and process the address, name (if supplied) and contents of your message, and any attachments you choose to send. We use this information to answer your request, investigate problems and handle necessary follow-up. Our intended UK GDPR lawful basis is legitimate interests in responding to enquiries and operating support; where correspondence is necessary to fulfil a contract, contractual necessity may apply. Our e-mail provider processes and stores the correspondence on our behalf. We retain it only for the time reasonably needed for the enquiry and any required follow-up or legal obligations; you may request access or deletion by contacting [[SUPPORT_EMAIL]], subject to applicable exceptions. We may also receive diagnostic data from Apple only if you authorise Apple to share it; Apple's settings control that sharing.
+
 ## 8. Keeping and deleting your information
 
 <!-- fact:P-RET-1 -->
-Your information stays on your device until you delete it. We keep no copy. Temporary export copies are deleted after one hour.
+Data generated and saved in the app stays on your device until you delete it; we keep no copy of that on-device app data. Support correspondence and any Apple diagnostics shared with us are separate and described above. Temporary export copies are deleted after one hour.
 
 <!-- fact:P-DEL-1 -->
 Settings → Delete local data removes saved elections, places, favourites, ritual profiles, history, the chosen location, the record of your legal acceptance, the onboarding state and your Private Cloud Compute consent. The consultation digests described in section 4 remain. Deleting the app removes its data from your device, except items iOS keeps in the Keychain.
@@ -118,9 +123,9 @@ The app is not directed at children and is not designed for use by children.
 ## 10. Your rights
 
 <!-- fact:P-RIGHTS-1 -->
-Depending on where you live (for example under the UK GDPR, the EU GDPR or Brazil's LGPD) you may have rights to access, correct, delete or port your personal data and to object to its use. Because we do not hold your personal data, you exercise these rights directly in the app (view, export or delete your data as described above). For any question or complaint, contact [[SUPPORT_EMAIL]]. You may also complain to a data protection authority, such as the Information Commissioner's Office (UK), the Autoridade Nacional de Proteção de Dados (Brazil) or the authority of your EU/EEA country.
+Depending on where you live (for example under the UK GDPR, the EU GDPR or Brazil's LGPD) you may have rights to access, correct, delete or port your personal data and to object to its use. For data stored only on your device, you can exercise these rights using the app (view, export or delete your data as described above). For any question or complaint, contact [[SUPPORT_EMAIL]]. You may also complain to a data protection authority, such as the Information Commissioner's Office (UK), the Autoridade Nacional de Proteção de Dados (Brazil) or the authority of your EU/EEA country.
 
-LEGAL REVIEW REQUIRED: confirm controller identity, legal bases and any representative requirements for the owner's jurisdiction ([[GOVERNING_LAW]]).
+[[OWNER_LEGAL_NAME]], at [[OWNER_POSTAL_ADDRESS]], is the controller of any support correspondence and any Apple diagnostic information that Apple makes available to the developer. Contact us at [[SUPPORT_EMAIL]] to exercise applicable data rights. We process support communications to answer enquiries and address app problems, using a lawful basis appropriate to the circumstances (generally legitimate interests in providing support, or performance of a contract where necessary). Apple diagnostic sharing depends on your Apple settings. Our e-mail provider processes support correspondence on our behalf. Our operations may be subject to additional statutory contact or representative requirements in particular territories; requests about those requirements may be addressed to [[SUPPORT_EMAIL]].
 
 ## 11. Changes
 

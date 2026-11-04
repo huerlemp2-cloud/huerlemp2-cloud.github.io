@@ -16,7 +16,7 @@ Astrology and ritual practice are cultural, spiritual and traditional systems. T
 
 ## 3. Eligibility
 
-You must be at least 18 years old, or the age of majority where you live if higher, to use the app. LEGAL REVIEW REQUIRED (align with the App Store age rating chosen in App Store Connect).
+You must be at least 18 years old, or the age of majority where you live if higher, to use the app.
 
 ## 4. Subscriptions
 
@@ -50,7 +50,7 @@ To the extent permitted by law, the app is provided "as is" and "as available", 
 
 ## 11. Limitation of liability
 
-To the extent permitted by law, we are not liable for indirect or consequential losses, or for decisions or actions you take based on results, explanations or reports from the app. Our total liability to you is limited to the amount you paid for the subscription in the twelve months before the claim. We do not exclude liability for death or personal injury caused by negligence, for fraud, or for anything else that cannot be excluded by law. LEGAL REVIEW REQUIRED (consumer-law carve-outs per jurisdiction).
+The app offers an interpretation of electional astrology and does not guarantee a particular spiritual, personal or practical outcome. To the extent permitted by applicable law, we are not responsible for decisions or actions taken solely on the basis of such interpretations. Nothing in these Terms excludes or restricts your mandatory rights or remedies relating to defective digital content, including its quality, fitness for purpose, conformity with its description or damage caused by it. Nothing excludes liability for fraud, death or personal injury caused by negligence, or any liability that cannot lawfully be excluded or limited. Any other limitation applies only where lawful and fair under the law applicable to you.
 
 ## 12. Ending the use of the app
 
@@ -58,7 +58,7 @@ You can stop using the app at any time and cancel your subscription in your Appl
 
 ## 13. Governing law and disputes
 
-These Terms are governed by [[GOVERNING_LAW]]. If you are a consumer, you also keep the protection of the mandatory laws of your country of residence and may bring proceedings there. LEGAL REVIEW REQUIRED.
+These Terms are governed by [[GOVERNING_LAW]], subject to any mandatory consumer-protection rules applying where you ordinarily reside. This choice does not deprive you of mandatory local consumer rights or access to courts available to you under applicable law. You may contact [[SUPPORT_EMAIL]] to seek an informal resolution before starting proceedings, but this is not a condition of exercising your legal rights.
 
 ## 14. Contact
 

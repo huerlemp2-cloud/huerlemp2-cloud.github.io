@@ -44,7 +44,7 @@ You can move between Standard and Premium or between monthly and annual billing 
 
 ## 7. Refunds
 
-Refunds are handled by Apple. You can request one at https://reportaproblem.apple.com or from the app (Settings → Request a refund from Apple). We cannot issue refunds ourselves. If Apple grants a refund, access to the refunded subscription ends.
+Refunds are handled by Apple. You can request one at https://reportaproblem.apple.com or from the app (Settings → Request a refund from Apple). We cannot issue App Store refunds ourselves. You may also have mandatory statutory cancellation or consumer rights under the laws applicable to you; Apple's refund process does not remove those rights. If Apple grants a refund, access to the refunded subscription ends.
 
 ## 8. Consultations
 

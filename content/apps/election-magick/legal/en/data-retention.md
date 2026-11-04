@@ -2,7 +2,7 @@
 
 Version 1.0 · Effective 2026-11-01
 
-Election Magick stores information only on your device. We (the developer) keep no copy of anything listed here. This policy explains where each item lives, how long it stays and how to delete it.
+Election Magick stores the app data described below on your device; we (the developer) keep no copy of that on-device app data. Support correspondence that you send us is handled separately, as described below. This policy explains where each item lives, how long it stays and how to delete it.
 
 ## On your device until you delete it
 
@@ -17,7 +17,7 @@ Election Magick stores information only on your device. We (the developer) keep 
 
 ## In the device Keychain
 
-- Consultation allowance record: one-way digests of consultations used, per subscription period, stored for this device only. It is not removed by Delete local data, so that the allowance cannot be reset, and iOS may keep it after the app is deleted. It contains no readable ritual text, place or date. LEGAL REVIEW REQUIRED.
+- Consultation allowance record: one-way SHA-256 digests used to prevent resetting the included consultation allowance, stored in the device Keychain for the subscription periods recorded there. The digests do not display ritual text, place or dates in readable form, but may still count as personal data when linked to a device or subscriber. These entries are not removed by the in-app Delete local data command and may persist when the app is deleted because of iOS Keychain behaviour. We do not receive these entries. This is a functional limitation of the current version; if you require assistance with retained records, contact [[SUPPORT_EMAIL]].
 
 ## Temporary files
 
@@ -34,6 +34,10 @@ Election Magick stores information only on your device. We (the developer) keep 
 1. Settings → Delete local data (removes everything in the first section).
 2. Delete the app from your device.
 3. Optionally cancel the subscription in your Apple account.
+
+## Support messages we receive
+
+Unlike the app's on-device data, messages you send to [[SUPPORT_EMAIL]] are received through our e-mail provider. We retain your contact details, message and any attachments only as long as reasonably needed to handle the request, follow up and meet applicable legal obligations. You may ask us to access or delete this correspondence, subject to legal exceptions. This information is **not** removed by the in-app Delete local data control.
 
 ## Contact
 
