@@ -24,9 +24,8 @@ None.
 - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ (3 pages)
 - https://www.apple.com/legal/privacy/ (1 pages)
 
-## Website vs app (tools/compare_with_app.py, ElectionMagica 3f406eb)
+## Website vs app (tools/compare_with_app.py, ElectionMagica 975812e)
 
 - 1. sources identical to the app: 18/18
-- 2. owner values equal to Owner.xcconfig: 4/5
+- 2. owner values equal to Owner.xcconfig: 5/5
 - 3. built pages matching their source word for word: 18/18
-- NOTE: [[WEBSITE_URL]]: website 'https://huerlemp2-cloud.github.io/election-magick' / app 'https://example.com'
