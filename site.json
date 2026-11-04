@@ -2,7 +2,7 @@
   "_comment": "Site-wide settings. null = still to be provided by the owner; a null owner field blocks the release build.",
   "site_name": "Huerlem Apps",
   "base_url": "https://huerlemp2-cloud.github.io",
-  "indexing": false,
+  "indexing": true,
   "default_locale": "en-GB",
   "locales": {
     "en-GB": {
