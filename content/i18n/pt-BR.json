@@ -1,0 +1,17 @@
+{
+  "lang_name": "Português (Brasil)",
+  "documents": "Documentos",
+  "support": "Suporte",
+  "language": "Idioma",
+  "back_to_app": "Sobre o {app}",
+  "breadcrumb": "Navegação estrutural",
+  "legal_hub_title": "{app}: suporte e documentos legais",
+  "legal_hub_lede": "Suporte e documentos que se aplicam ao {app}.",
+  "skip": "Ir para o conteúdo",
+  "review_label": "Revisão jurídica pendente",
+  "preview_banner": "Pré-visualização. Não publicar antes de completar os dados do titular e a revisão jurídica.",
+  "todo_legal_name": "Nome legal do titular (a fornecer)",
+  "todo_postal_address": "Endereço postal do titular (a fornecer)",
+  "todo_contact_email": "E-mail de contato (a fornecer)",
+  "todo_governing_law": "Lei aplicável (a fornecer)"
+}

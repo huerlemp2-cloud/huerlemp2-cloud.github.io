@@ -1,0 +1,40 @@
+# Política de Conservación de Datos
+
+Versión 1.0 · Vigente desde 2026-11-01
+
+Election Magick guarda la información solo en tu dispositivo. Nosotros (el desarrollador) no conservamos copia de nada de lo que se enumera aquí. Esta política explica dónde está cada elemento, cuánto tiempo se conserva y cómo borrarlo.
+
+## En tu dispositivo hasta que lo borres
+
+- Elecciones guardadas (descripción del ritual, entidad, lugar con coordenadas y zona horaria, fecha, clasificación en el momento de guardarla): hasta que las borres en Guardados, uses Ajustes → Borrar datos locales o elimines la app.
+- Historial de cálculos (el mismo tipo de datos de entrada y las fechas clasificadas): igual que lo anterior.
+- Lugares guardados (nombre, país, coordenadas, zona horaria): igual que lo anterior.
+- Entidades favoritas y perfiles de ritual (sin ubicación): igual que lo anterior.
+- Ubicación elegida para el próximo cálculo (solo elección manual; las posiciones de la ubicación actual no se guardan): hasta que elijas otro lugar, uses Borrar datos locales o elimines la app.
+- Preferencias (idioma, sistema de casas, nodo lunar, interruptor de explicaciones con IA): hasta que las cambies o elimines la app.
+- Registro de tu aceptación legal (versiones de los documentos, fecha y hora, versión de la app): hasta Borrar datos locales o eliminar la app; un cambio relevante en un documento vuelve a pedir la aceptación.
+- Consentimiento a Private Cloud Compute (versión del aviso y fecha y hora): hasta que desactives Private Cloud Compute, uses Borrar datos locales o elimines la app.
+
+## En el Llavero (Keychain) del dispositivo
+
+- Registro de consultas incluidas: resúmenes irreversibles de las consultas usadas, por período de suscripción, guardados solo en este dispositivo. Borrar datos locales no lo elimina, para que la asignación no pueda reiniciarse, e iOS puede conservarlo tras eliminar la app. No contiene texto de ritual, lugar ni fechas legibles. LEGAL REVIEW REQUIRED.
+
+## Archivos temporales
+
+- Los informes exportados (PDF, texto, archivo de datos) se escriben en la carpeta temporal de la app para compartirlos y se borran al cabo de una hora; iOS puede eliminarlos antes. Las copias que compartas o guardes en otro lugar quedan bajo tu control.
+
+## Conservado por Apple, no por nosotros
+
+- Compras e historial de suscripciones: Apple (App Store), según la política de privacidad de Apple. Gestiónalos en tu cuenta de Apple.
+- Búsquedas y geocodificación de Apple Maps, y solicitudes de Private Cloud Compute si lo activaste: tratadas por Apple como se describe en la Política de Privacidad.
+- Informes de fallos y estadísticas de uso, solo si activaste "Compartir con desarrolladores" en los Ajustes de iOS: proporcionados por Apple.
+
+## Borrarlo todo
+
+1. Ajustes → Borrar datos locales (elimina todo lo de la primera sección).
+2. Elimina la app del dispositivo.
+3. Si quieres, cancela la suscripción en tu cuenta de Apple.
+
+## Contacto
+
+[[SUPPORT_EMAIL]]

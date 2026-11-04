@@ -1,0 +1,3 @@
+# Preview: indexing is off in site.json
+User-agent: *
+Disallow: /

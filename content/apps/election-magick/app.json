@@ -1,0 +1,20 @@
+{
+  "slug": "election-magick",
+  "name": "Election Magick",
+  "order": 1,
+  "status": "upcoming",
+  "device": "iPhone",
+  "subtitle": "Astrological timing for ritual",
+  "summary": "Election Magick calculates when a moment is astrologically suitable for a ritual or intention you describe, using a documented traditional method of electional astrology, and shows you exactly why.",
+  "app_store_url": null,
+  "support_email": null,
+  "icon": "assets/img/election-magick-icon-384.png",
+  "screenshots": [],
+  "theme": {"plate": "#0B0C10", "ink": "#F2F2F4", "muted": "#B4B8C2", "accent": "#D6BC7A", "line": "#2A2C33"},
+  "legal": {
+    "languages": {"en": "en-GB", "pt-br": "pt-BR", "es": "es"},
+    "documents": ["privacy", "terms", "subscription", "disclaimer", "data-retention"],
+    "support": true,
+    "source": "LEGAL/*.md of the ElectionMagica repository, copied verbatim; see legal/SOURCE.json"
+  }
+}

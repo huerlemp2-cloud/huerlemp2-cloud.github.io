@@ -1,0 +1,17 @@
+{
+  "lang_name": "Español",
+  "documents": "Documentos",
+  "support": "Soporte",
+  "language": "Idioma",
+  "back_to_app": "Sobre {app}",
+  "breadcrumb": "Ruta de navegación",
+  "legal_hub_title": "{app}: soporte y documentos legales",
+  "legal_hub_lede": "Soporte y documentos que se aplican a {app}.",
+  "skip": "Ir al contenido",
+  "review_label": "Revisión jurídica pendiente",
+  "preview_banner": "Vista previa. No publicar hasta completar los datos del titular y la revisión jurídica.",
+  "todo_legal_name": "Nombre legal del titular (pendiente)",
+  "todo_postal_address": "Dirección postal del titular (pendiente)",
+  "todo_contact_email": "Correo de contacto (pendiente)",
+  "todo_governing_law": "Ley aplicable (pendiente)"
+}
